@@ -1,5 +1,8 @@
 <html>
 <body>
+<h1>Support</h1>
+<p>This is a free app and is distributed for use as is.  If you'd like to make comments or requests, 
+    please do so through the App Store.</p>
 <h1>Privacy Policy</h1>
 <p>I built this application as a free app. This SERVICE is provided by me at no cost and is intended
     for use as is.</p>
