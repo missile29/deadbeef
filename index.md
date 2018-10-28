@@ -48,8 +48,8 @@
     on this page. These changes are effective immediately, after they are posted on this page.</p>
 
 <p><strong>Contact Us</strong></p>
-<p>If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at missiletwentynine@gmail.com.</p>
-<p>This Privacy Policy page was created baed on a template from <a href="https://privacypolicytemplate.net"
+<p>If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at this web site.</p>
+<p>This Privacy Policy page was created based on a template from <a href="https://privacypolicytemplate.net"
                                               target="_blank">privacypolicytemplate.net</a>.</p>
 </body>
 </html>
