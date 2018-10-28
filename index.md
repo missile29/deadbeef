@@ -6,20 +6,18 @@
 <p>This page is used to inform website visitors regarding my policies with the collection, use, and
     disclosure of Personal Information if anyone decided to use my Service.</p>
 <p>If you choose to use my Service, then you agree to the collection and use of information in 
-    relation with this policy. The Personal Information that I collect are used for providing and
-    improving the Service. I will not use or share your information with anyone except as described
-    in this Privacy Policy.</p>
+    relation with this policy.</p>
 
 <p><strong>Information Collection and Use</strong></p>
 <p>This app does not to my knowledge collect, store, use, or distribute your personal information.  
     It does link to external libraries provided by the Operating System and environment on your device.  
-    These libraries are not under my control and moy or may not collect, store, use, or distribute your 
+    These libraries are not under my control and may or may not collect, store, use, or distribute your 
     personal information.  Therefore, I strongly advise you to review the Privacy Policy of of your 
     device vendor. I have no control over, and assume no responsibility for the content, privacy 
     policies, or practices of any third-party sites or services.</p>
 
 <p><strong>Log Data</strong></p>
-<p>Whenever you use this app, in case of an error in the app the app may collect
+<p>Whenever you use this app, in case of an error in the app, the app may collect
     data and information (through third party products) on your phone called Log Data. This Log Data
     may include information such as your devices’s Internet Protocol (“IP”) address, device name,
     operating system version, configuration of the app when utilising the Service, the time and date
@@ -40,10 +38,9 @@
     sites or services.</p>
 
 <p><strong>Children’s Privacy</strong></p>
-<p>This Services do not address anyone under the age of 13. I do not knowingly collect personal
-    identifiable information from children under 13. If you are a parent or guardian and you are 
-    aware that your child has provided us with personal information, please contact me so that 
-    I will be able to take necessary actions.</p>
+<p>This Service does not address anyone under the age of 13. I do not knowingly collect personal
+    identifiable information from children under 13. If you are a parent or guardian and you believe
+    that your child has provided us with personal information, please contact me.</p>
 
 <p><strong>Changes to This Privacy Policy</strong></p>
 <p>I may update this Privacy Policy from time to time. Thus, you are advised to review this page
@@ -51,7 +48,7 @@
     on this page. These changes are effective immediately, after they are posted on this page.</p>
 
 <p><strong>Contact Us</strong></p>
-<p>If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.</p>
+<p>If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at missiletwentynine@gmail.com.</p>
 <p>This Privacy Policy page was created at <a href="https://privacypolicytemplate.net"
                                               target="_blank">privacypolicytemplate.net</a>.</p>
 </body>
