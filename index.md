@@ -3,6 +3,13 @@
 <h1>Support</h1>
 <p>This is a free app and is distributed for use as is.  I'd love to hear comments and suggestions
     to make it better.  Please provide comments or requests through the Apple App Store.</p>
+<h1>What's with the name?</h1>
+<p>For anyone who writes software, especially embedded applications, the hex value 0xDEADBEEF is 
+    often used to fill memory or unused fields with data that is non-zero, but obviously invalid.  
+    Since the primary purpose of this app was to be used as a tool to help decode memory and ethernet
+    packet dumps, it seemed appropriate.  As for the cow... well, my kids thought it was funny, 
+    so it stuck.  He's winking because the '0' and 'x' characters are used to indicate a hexadecimal
+    literal value in C and other C-based languages.</p>
 <h1>Privacy Policy</h1>
 <p>I built this application as a free app. This SERVICE is provided by me at no cost and is intended
     for use as is.</p>
