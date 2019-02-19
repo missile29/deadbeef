@@ -22,7 +22,7 @@
 <p>This app does not to my knowledge collect, store, use, or distribute your personal information.  
     It does link to external libraries provided by the Operating System and environment on your device.  
     These libraries are not under my control and may or may not collect, store, use, or distribute your 
-    personal information.  Therefore, I strongly advise you to review the Privacy Policy of of your 
+    personal information.  Therefore, I strongly advise you to review the Privacy Policy of your 
     device vendor. I have no control over, and assume no responsibility for the content, privacy 
     policies, or practices of any third-party sites or services.</p>
 
